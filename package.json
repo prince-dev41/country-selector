@@ -1,6 +1,6 @@
 {
   "name": "country-selector-lite",
-  "version": "1.0.2",
+  "version": "1.0.10",
   "main": "country-selector.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,5 +8,5 @@
   "keywords": [],
   "author": "Prince Ekpinse",
   "license": "MIT",
-  "description": "Countr"
+  "description": "A simple country selector build with HTML5 and JavaScript."
 }
