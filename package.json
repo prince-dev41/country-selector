@@ -1,12 +1,12 @@
 {
-  "name": "country-dropdown",
-  "version": "1.0.0",
+  "name": "country-selector-lite",
+  "version": "1.0.2",
   "main": "country-selector.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Prince Ekpinse",
+  "license": "MIT",
+  "description": "Countr"
 }
